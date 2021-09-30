@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NatusVinceno_websitebanhang_lhu18ct112", "NatusVinceno_websitebanhang_lhu18ct112\NatusVinceno_websitebanhang_lhu18ct112.csproj", "{3B860C5F-6FF1-4277-9A44-43F086946433}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{2201B224-9285-4EE1-8058-473C8E4572C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3B860C5F-6FF1-4277-9A44-43F086946433}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B860C5F-6FF1-4277-9A44-43F086946433}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B860C5F-6FF1-4277-9A44-43F086946433}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2201B224-9285-4EE1-8058-473C8E4572C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2201B224-9285-4EE1-8058-473C8E4572C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2201B224-9285-4EE1-8058-473C8E4572C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2201B224-9285-4EE1-8058-473C8E4572C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
