@@ -23,7 +23,7 @@ namespace Models
                 new SqlParameter("@Username", username),
                 new SqlParameter("@Password", password)
             };
-            var res = context.Database.SqlQuery<bool>("SP_Account_Login @Username,@Password", sqlParam).SingleOrDefault();
+            bool res = context.Database.SqlQuery<bool>("SP_Account_Login @Username,@Password", sqlParam).SingleOrDefault();
             return res;
         }
     }

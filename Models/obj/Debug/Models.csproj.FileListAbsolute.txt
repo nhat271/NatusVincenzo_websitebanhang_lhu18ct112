@@ -10,3 +10,15 @@ E:\WEB\NatusVincenzo_websitebanhang_lhu18ct112\Models\obj\Debug\Models.csproj.Co
 E:\WEB\NatusVincenzo_websitebanhang_lhu18ct112\Models\obj\Debug\Models.csproj.CopyComplete
 E:\WEB\NatusVincenzo_websitebanhang_lhu18ct112\Models\obj\Debug\Models.dll
 E:\WEB\NatusVincenzo_websitebanhang_lhu18ct112\Models\obj\Debug\Models.pdb
+D:\project60%_monWebThayPhuc\Models\bin\Debug\Models.dll.config
+D:\project60%_monWebThayPhuc\Models\bin\Debug\Models.dll
+D:\project60%_monWebThayPhuc\Models\bin\Debug\Models.pdb
+D:\project60%_monWebThayPhuc\Models\bin\Debug\EntityFramework.dll
+D:\project60%_monWebThayPhuc\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\project60%_monWebThayPhuc\Models\bin\Debug\EntityFramework.xml
+D:\project60%_monWebThayPhuc\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\project60%_monWebThayPhuc\Models\obj\Debug\Models.csprojAssemblyReference.cache
+D:\project60%_monWebThayPhuc\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\project60%_monWebThayPhuc\Models\obj\Debug\Models.csproj.CopyComplete
+D:\project60%_monWebThayPhuc\Models\obj\Debug\Models.dll
+D:\project60%_monWebThayPhuc\Models\obj\Debug\Models.pdb

@@ -16,7 +16,8 @@ namespace NatusVinceno_websitebanhang_lhu18ct112
             routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",
-                defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }
+                defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional },
+                namespaces: new[] { "NatusVincenzo_websitebanhang_lhu18ct112.Controllers" }
             );
         }
     }
