@@ -1,11 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\Ictshop",
-    "\\Ictshop\\Controllers",
-    "\\Ictshop\\Views",
-    "\\Ictshop\\Views\\Sanpham"
+    ""
   ],
-  "SelectedNode": "\\Ictshop\\Views\\Sanpham\\laptopApplePartial.cshtml",
+  "SelectedNode": "\\Ictshop.sln",
   "PreviewInSolutionExplorer": false
 }

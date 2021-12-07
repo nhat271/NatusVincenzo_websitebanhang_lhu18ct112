@@ -5,7 +5,7 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h2>Hãy đăng nhập để sử dụng đầy đủ tính năng của LearningWeb</h2>
+<h2>Sign In</h2>
 
 @using (Html.BeginForm("Dangnhap", "User", FormMethod.Post))
 {
@@ -30,13 +30,9 @@
 
         <div class="form-group">
             <div class="col-md-offset-2 col-md-10">
-                <input type="submit" value="Đăng nhập" class="btn btn-default" />
+                <input type="submit" value="Đăng nhập" class="" />
             </div>
         </div>
     </div>
 }
 @ViewBag.Fail
-
-<div>
-    @Html.ActionLink("Back to List", "Index")
-</div>
