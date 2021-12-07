@@ -1,4 +1,4 @@
-namespace Ictshop.Models
+﻿namespace Ictshop.Models
 {
     using System;
     using System.Collections.Generic;
@@ -19,20 +19,25 @@ namespace Ictshop.Models
         public int MaNguoiDung { get; set; }
 
         [StringLength(50)]
+        [Display(Name = "Họ và tên")]
         public string Hoten { get; set; }
 
         [StringLength(50)]
+        [Display(Name = "Email")]
         public string Email { get; set; }
 
         [StringLength(10)]
+        [Display(Name = "Điện thoại")]
         public string Dienthoai { get; set; }
 
         [StringLength(50)]
+        [Display(Name = "Mật khẩu")]
         public string Matkhau { get; set; }
 
         public int? IDQuyen { get; set; }
 
         [StringLength(100)]
+        [Display(Name = "Địa chỉ")]
         public string Diachi { get; set; }
 
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]

@@ -143,6 +143,8 @@
     <Compile Include="Areas\Admin\Controllers\NguoidungsController.cs" />
     <Compile Include="Areas\Admin\Controllers\PhanQuyensController.cs" />
     <Compile Include="Controllers\DanhmucController.cs" />
+    <Compile Include="Controllers\DonhangsController.cs" />
+    <Compile Include="Controllers\GioHangController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\SanphamController.cs" />
     <Compile Include="Controllers\UserController.cs" />
@@ -156,8 +158,10 @@
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Chitietdonhang.cs" />
     <Compile Include="Models\Donhang.cs" />
+    <Compile Include="Models\GioHang.cs" />
     <Compile Include="Models\Hangsanxuat.cs" />
     <Compile Include="Models\Hedieuhanh.cs" />
+    <Compile Include="Models\LoginModel.cs" />
     <Compile Include="Models\Nguoidung.cs" />
     <Compile Include="Models\PhanQuyen.cs" />
     <Compile Include="Models\Qlbanhang.cs" />
@@ -2189,6 +2193,11 @@
     <Content Include="Views\Sanpham\laptopAsusPartial.cshtml" />
     <Content Include="Views\Sanpham\laptopApplePartial.cshtml" />
     <Content Include="Views\Sanpham\laptopDellPartial.cshtml" />
+    <Content Include="Views\Donhangs\Details.cshtml" />
+    <Content Include="Views\Donhangs\Index.cshtml" />
+    <Content Include="Views\GioHang\GioHang.cshtml" />
+    <Content Include="Views\GioHang\GioHangPartial.cshtml" />
+    <Content Include="Views\GioHang\SuaGioHang.cshtml" />
     <None Include="Web.Debug.Config">
       <DependentUpon>Web.Config</DependentUpon>
     </None>
